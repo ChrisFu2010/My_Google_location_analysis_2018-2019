@@ -1,0 +1,61 @@
+{
+  "timelineObjects": [
+    {
+      "placeVisit": {
+        "location": {
+          "latitudeE7": 419007788,
+          "longitudeE7": 124666876,
+          "placeId": "ChIJs3B7V1tgLxMR_9fu9zeveLA",
+          "address": "Via del Banco di Santo Spirito, 3, 00186 Roma, Italia",
+          "name": "Chiesa dei Santi Celso e Giuliano",
+          "locationConfidence": 100.0
+        },
+        "duration": {
+          "startTimestampMs": "1527584058324",
+          "endTimestampMs": "1527584118324"
+        },
+        "placeConfidence": "USER_CONFIRMED",
+        "visitConfidence": 100,
+        "editConfirmationStatus": "CONFIRMED"
+      }
+    },
+    {
+      "placeVisit": {
+        "location": {
+          "latitudeE7": 418959244,
+          "longitudeE7": 124798623,
+          "placeId": "ChIJK1-CN0xgLxMRZukH0_lPL70",
+          "address": "Via degli Astalli, 16\n00186 Roma RM\nItalia",
+          "name": "Chiesa del Gesù",
+          "locationConfidence": 100.0
+        },
+        "duration": {
+          "startTimestampMs": "1527596756745",
+          "endTimestampMs": "1527596816745"
+        },
+        "placeConfidence": "USER_CONFIRMED",
+        "visitConfidence": 100,
+        "editConfirmationStatus": "CONFIRMED"
+      }
+    },
+    {
+      "placeVisit": {
+        "location": {
+          "latitudeE7": 423285847,
+          "longitudeE7": 122371541,
+          "placeId": "ChIJi-b4Z2EwLxMRLdG94D5XGGE",
+          "address": "Piazza Farnese, 1\n01032 Caprarola VT\nItalia",
+          "name": "Villa Farnese",
+          "locationConfidence": 100.0
+        },
+        "duration": {
+          "startTimestampMs": "1527685913093",
+          "endTimestampMs": "1527685973093"
+        },
+        "placeConfidence": "USER_CONFIRMED",
+        "visitConfidence": 100,
+        "editConfirmationStatus": "CONFIRMED"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1259 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 377836381,
+        "longitudeE7" : -1223977265,
+        "placeId" : "ChIJSwCRnH6AhYARH77UzBqmoTc",
+        "address" : "1 St Francis Pl\nSan Francisco, CA 94107\nUSA",
+        "name" : "SoMa Square Apartments",
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        },
+        "locationConfidence" : 90.772575
+      },
+      "duration" : {
+        "startTimestampMs" : "1538192287538",
+        "endTimestampMs" : "1538192880999"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 377836814,
+      "centerLngE7" : -1223967471,
+      "visitConfidence" : 90,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 377843832,
+        "longitudeE7" : -1223977966,
+        "placeId" : "ChIJ1QptN3yAhYAR2nyqCcQ3ozs",
+        "name" : "Canton Seafood & Dim Sum Restaurant",
+        "locationConfidence" : 0.87325066
+      }, {
+        "latitudeE7" : 377826850,
+        "longitudeE7" : -1223967950,
+        "placeId" : "ChIJFdPKuH6AhYAROj1XPHn7iOw",
+        "name" : "Coletta Gelato",
+        "locationConfidence" : 0.8139621
+      }, {
+        "latitudeE7" : 377841313,
+        "longitudeE7" : -1223958947,
+        "placeId" : "ChIJFQr3jX6AhYARbmb7Dje-2SA",
+        "name" : "Udemy",
+        "locationConfidence" : 0.38063487
+      }, {
+        "latitudeE7" : 377829527,
+        "longitudeE7" : -1223974365,
+        "placeId" : "ChIJW-f7mX6AhYAR4MMDm_xBcRw",
+        "name" : "ABM Parking Service",
+        "locationConfidence" : 0.24505134
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 377829354,
+        "longitudeE7" : -1223970959,
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 377861336,
+        "longitudeE7" : -1224099290,
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1538192880999",
+        "endTimestampMs" : "1538193616999"
+      },
+      "distance" : 1182,
+      "activityType" : "WALKING",
+      "confidence" : "LOW",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 38.331388524748355
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 28.363667340653176
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 18.06210352593947
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 377828941,
+          "lngE7" : -1223970413
+        }, {
+          "latE7" : 377867927,
+          "lngE7" : -1224047393
+        }, {
+          "latE7" : 377861595,
+          "lngE7" : -1224099349
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 377877379,
+          "lngE7" : -1224051577,
+          "timestampMs" : "1538193221998",
+          "accuracyMeters" : 5
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 377863747,
+        "longitudeE7" : -1224092339,
+        "placeId" : "ChIJC4bkD4-AhYARLFndAQVJRGQ",
+        "address" : "272 O'Farrell St\nSan Francisco, CA 94102\nUSA",
+        "name" : "Gong Cha",
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        },
+        "locationConfidence" : 63.624428
+      },
+      "duration" : {
+        "startTimestampMs" : "1538193616999",
+        "endTimestampMs" : "1538197841079"
+      },
+      "placeConfidence" : "MEDIUM_CONFIDENCE",
+      "centerLatE7" : 377862500,
+      "centerLngE7" : -1224093700,
+      "visitConfidence" : 96,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 377862527,
+        "longitudeE7" : -1224088054,
+        "placeId" : "ChIJYQrxFI-AhYARSkQbx58DuHE",
+        "name" : "Johnny Foley's Irish House",
+        "locationConfidence" : 5.322683
+      }, {
+        "latitudeE7" : 377866053,
+        "longitudeE7" : -1224096650,
+        "placeId" : "ChIJdyXmBo-AhYARlZWFRMVlUYw",
+        "name" : "Cafe Mason",
+        "locationConfidence" : 2.1277313
+      }, {
+        "latitudeE7" : 377865950,
+        "longitudeE7" : -1224088090,
+        "placeId" : "ChIJh3olFI-AhYARZ3pVINkbpts",
+        "name" : "Bartlett Hall",
+        "locationConfidence" : 1.9219193
+      }, {
+        "latitudeE7" : 377859474,
+        "longitudeE7" : -1224094225,
+        "placeId" : "ChIJf215c4-AhYAR1jYbKf_Y5X8",
+        "name" : "Hotel Nikko San Francisco",
+        "locationConfidence" : 1.7757629
+      }, {
+        "latitudeE7" : 377872780,
+        "longitudeE7" : -1224109237,
+        "placeId" : "ChIJC9roRY6AhYAR2FJOKEmDXkU",
+        "name" : "Creo landscape architecture",
+        "locationConfidence" : 1.5890964
+      }, {
+        "latitudeE7" : 377863520,
+        "longitudeE7" : -1224104380,
+        "placeId" : "ChIJN2mxr4-AhYARXFb42pdU_qA",
+        "name" : "The Halal Guys San Francisco",
+        "locationConfidence" : 1.3416084
+      }, {
+        "latitudeE7" : 377857306,
+        "longitudeE7" : -1224101172,
+        "placeId" : "ChIJeSJHoI-AhYARembxZUVcNEk",
+        "name" : "Hilton San Francisco Union Square",
+        "locationConfidence" : 1.028203
+      }, {
+        "latitudeE7" : 377865332,
+        "longitudeE7" : -1224084601,
+        "placeId" : "ChIJ24-NFY-AhYARs5ynqCSL2pE",
+        "name" : "Chipotle Mexican Grill",
+        "locationConfidence" : 0.8901668
+      }, {
+        "latitudeE7" : 377857526,
+        "longitudeE7" : -1224087005,
+        "placeId" : "ChIJj9ZtaI-AhYAR9N__o4uu1Q0",
+        "name" : "Chaat Corner",
+        "locationConfidence" : 0.8239428
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 377863296,
+        "longitudeE7" : -1224085584,
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 377884829,
+        "longitudeE7" : -1224073637,
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1538197841079",
+        "endTimestampMs" : "1538198413000"
+      },
+      "distance" : 567,
+      "activityType" : "WALKING",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "WALKING",
+        "probability" : 79.56311944728698
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 8.490063651462751
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 8.381090398925672
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 377863311,
+          "lngE7" : -1224085617
+        }, {
+          "latE7" : 377869071,
+          "lngE7" : -1224081420
+        }, {
+          "latE7" : 377884712,
+          "lngE7" : -1224073638
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 377863296,
+          "lngE7" : -1224085584,
+          "timestampMs" : "1538197841079",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 377874291,
+        "longitudeE7" : -1224076285,
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 379184477,
+        "longitudeE7" : -1223203729,
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1538198413000",
+        "endTimestampMs" : "1538200306060"
+      },
+      "distance" : 21501,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "MEDIUM",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 67.38362989762796
+      }, {
+        "activityType" : "IN_SUBWAY",
+        "probability" : 15.629605174415605
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 7.0452197854992304
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 377874679,
+          "lngE7" : -1224076385
+        }, {
+          "latE7" : 377857170,
+          "lngE7" : -1223912200
+        }, {
+          "latE7" : 379186973,
+          "lngE7" : -1223203735
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1538200306060",
+        "location" : {
+          "latitudeE7" : 379185215,
+          "longitudeE7" : -1223203346,
+          "accuracyMetres" : 70
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 379184889,
+        "longitudeE7" : -1223203843,
+        "placeId" : "ChIJL_Kpu1d4hYARg54xmIt3Xl8",
+        "address" : "5226 Creely Ave\nRichmond, CA 94804\nUSA",
+        "name" : "5226 Creely Ave",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        },
+        "locationConfidence" : 98.58905
+      },
+      "duration" : {
+        "startTimestampMs" : "1538200306060",
+        "endTimestampMs" : "1538234652001"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 379184167,
+      "centerLngE7" : -1223203400,
+      "visitConfidence" : 69,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 379189950,
+        "longitudeE7" : -1223203150,
+        "placeId" : "ChIJezkEs1d4hYARu1gBsMF6kqM",
+        "name" : "Arbors Apartments",
+        "locationConfidence" : 0.9045448
+      }, {
+        "latitudeE7" : 379182289,
+        "longitudeE7" : -1223200740,
+        "placeId" : "ChIJwVdLuFd4hYARheiB_wVjDh4",
+        "name" : "Brand Fine Jewelry & Gems",
+        "locationConfidence" : 0.10152452
+      }, {
+        "latitudeE7" : 379189673,
+        "longitudeE7" : -1223241373,
+        "placeId" : "ChIJ9cWfDFl4hYARSd4ggdsN4fU",
+        "name" : "Booker T. Anderson Jr. Park",
+        "locationConfidence" : 0.09424406
+      }, {
+        "latitudeE7" : 379165678,
+        "longitudeE7" : -1223247883,
+        "placeId" : "ChIJE58T3Pd4hYARIDwLNgKFYEI",
+        "name" : "Crescent Park Apartments",
+        "locationConfidence" : 0.092522465
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 379184889,
+        "longitudeE7" : -1223203843,
+        "placeId" : "ChIJL_Kpu1d4hYARg54xmIt3Xl8",
+        "address" : "5226 Creely Ave\nRichmond, CA 94804\nUSA",
+        "name" : "5226 Creely Ave",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        },
+        "locationConfidence" : 97.37166
+      },
+      "duration" : {
+        "startTimestampMs" : "1538237365113",
+        "endTimestampMs" : "1538242624000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 379185271,
+      "centerLngE7" : -1223201614,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 379189950,
+        "longitudeE7" : -1223203150,
+        "placeId" : "ChIJezkEs1d4hYARu1gBsMF6kqM",
+        "name" : "Arbors Apartments",
+        "locationConfidence" : 1.9596068
+      }, {
+        "latitudeE7" : 379165678,
+        "longitudeE7" : -1223247883,
+        "placeId" : "ChIJE58T3Pd4hYARIDwLNgKFYEI",
+        "name" : "Crescent Park Apartments",
+        "locationConfidence" : 0.120461
+      }, {
+        "latitudeE7" : 379182289,
+        "longitudeE7" : -1223200740,
+        "placeId" : "ChIJwVdLuFd4hYARheiB_wVjDh4",
+        "name" : "Brand Fine Jewelry & Gems",
+        "locationConfidence" : 0.09931484
+      }, {
+        "latitudeE7" : 379189673,
+        "longitudeE7" : -1223241373,
+        "placeId" : "ChIJ9cWfDFl4hYARSd4ggdsN4fU",
+        "name" : "Booker T. Anderson Jr. Park",
+        "locationConfidence" : 0.09543926
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 379187071,
+        "longitudeE7" : -1223192923,
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 378095567,
+        "longitudeE7" : -1221131579,
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1538242624000",
+        "endTimestampMs" : "1538244906610"
+      },
+      "distance" : 31687,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 96.92647843807599
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 2.595438395075973
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.28274098072307297
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 379186973,
+          "lngE7" : -1223192901
+        }, {
+          "latE7" : 378820419,
+          "lngE7" : -1223082962
+        }, {
+          "latE7" : 378099060,
+          "lngE7" : -1221134185
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 378799836,
+          "lngE7" : -1223077889,
+          "timestampMs" : "1538243022000",
+          "accuracyMeters" : 5
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1538245044236",
+        "location" : {
+          "latitudeE7" : 378095567,
+          "longitudeE7" : -1221131579,
+          "accuracyMetres" : 125
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 378091340,
+        "longitudeE7" : -1221127390,
+        "placeId" : "ChIJC4GDDxaJj4ARQOb4JWNV6Fc",
+        "address" : "2101 Camino Pablo\nMoraga, CA 94556\nUSA",
+        "name" : "Rancho Laguna Park",
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        },
+        "locationConfidence" : 97.39863
+      },
+      "duration" : {
+        "startTimestampMs" : "1538244906610",
+        "endTimestampMs" : "1538259113000"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 378094731,
+      "centerLngE7" : -1221130954,
+      "visitConfidence" : 94,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 378091340,
+        "longitudeE7" : -1221127390,
+        "placeId" : "ChIJvRYRBRaJj4ARoR9kouN2hRA",
+        "locationConfidence" : 1.9958963
+      }, {
+        "latitudeE7" : 378096279,
+        "longitudeE7" : -1221116750,
+        "placeId" : "ChIJsWzC5BWJj4ARZHp9Mm6Mphc",
+        "locationConfidence" : 0.3168565
+      }, {
+        "latitudeE7" : 378102270,
+        "longitudeE7" : -1221126945,
+        "placeId" : "ChIJPwyhcRaJj4ARgXbfJopOI2w",
+        "locationConfidence" : 0.18593484
+      }, {
+        "latitudeE7" : 378090339,
+        "longitudeE7" : -1221149630,
+        "placeId" : "ChIJW3kuNRaJj4AR-0PdykTafuw",
+        "name" : "Rosenbaum & Co.",
+        "locationConfidence" : 0.1026831
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 378084817,
+          "lngE7" : -1221136301,
+          "timestampMs" : "1538250339000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 378098691,
+          "lngE7" : -1221124965,
+          "timestampMs" : "1538255447567",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 378094065,
+          "lngE7" : -1221127719,
+          "timestampMs" : "1538257537570",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 378097023,
+          "lngE7" : -1221133146,
+          "timestampMs" : "1538257927000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 378092095,
+          "lngE7" : -1221137848,
+          "timestampMs" : "1538259057057",
+          "accuracyMeters" : 10
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 378095533,
+        "longitudeE7" : -1221132824,
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 378718992,
+        "longitudeE7" : -1222585399,
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1538259113000",
+        "endTimestampMs" : "1538263055047"
+      },
+      "distance" : 21317,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 97.60156606882536
+      }, {
+        "activityType" : "MOTORCYCLING",
+        "probability" : 1.4136471711041316
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 0.6412106504872641
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 378093910,
+          "lngE7" : -1221136169
+        }, {
+          "latE7" : 378495216,
+          "lngE7" : -1222368011
+        }, {
+          "latE7" : 378445625,
+          "lngE7" : -1222612915
+        }, {
+          "latE7" : 378654670,
+          "lngE7" : -1222557907
+        }, {
+          "latE7" : 378719711,
+          "lngE7" : -1222583312
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 378648378,
+          "lngE7" : -1222564192,
+          "timestampMs" : "1538262387996",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1538263055047",
+        "location" : {
+          "latitudeE7" : 378685168,
+          "longitudeE7" : -1222590932,
+          "accuracyMetres" : 70
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 378718992,
+        "longitudeE7" : -1222585399,
+        "placeId" : "ChIJwdcixRh3j4ARiTJrO-o0gNo",
+        "address" : "Berkeley, CA\nUSA",
+        "name" : "University of California, Berkeley",
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        },
+        "locationConfidence" : 37.20156
+      },
+      "duration" : {
+        "startTimestampMs" : "1538263055047",
+        "endTimestampMs" : "1538280937102"
+      },
+      "placeConfidence" : "LOW_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 378692200,
+          "longitudeE7" : -1222596730,
+          "placeId" : "ChIJZ1Rc_SV8hYARlOekUEXyhPo",
+          "address" : "2495 Bancroft Way\nBerkeley, CA 94720\nUSA",
+          "name" : "Pauley Ballroom",
+          "sourceInfo" : {
+            "deviceTag" : -1478195304
+          },
+          "locationConfidence" : 7.613105
+        },
+        "duration" : {
+          "startTimestampMs" : "1538272003989",
+          "endTimestampMs" : "1538280937102"
+        },
+        "placeConfidence" : "LOW_CONFIDENCE",
+        "centerLatE7" : 378692825,
+        "centerLngE7" : -1222595950,
+        "visitConfidence" : 95,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 378692195,
+          "longitudeE7" : -1222596727,
+          "placeId" : "ChIJPxYV_SV8hYARFC0-DTgI7tg",
+          "name" : "ASUC Student Union: Martin Luther King Jr. Building",
+          "locationConfidence" : 4.4114194
+        }, {
+          "latitudeE7" : 378678337,
+          "longitudeE7" : -1222598924,
+          "placeId" : "ChIJQ0BAsih8hYARxzPFpURlBZA",
+          "name" : "Famous Bao",
+          "locationConfidence" : 4.281654
+        }, {
+          "latitudeE7" : 378687520,
+          "longitudeE7" : -1222604700,
+          "placeId" : "ChIJM9m6qih8hYARjg9pfDYU0_E",
+          "name" : "Bear's Lair Tavern",
+          "locationConfidence" : 2.151161
+        }, {
+          "latitudeE7" : 378691454,
+          "longitudeE7" : -1222602313,
+          "placeId" : "ChIJ1wNABiZ8hYARavWsrghpOxA",
+          "name" : "Lower Sproul Plaza",
+          "locationConfidence" : 2.1463418
+        }, {
+          "latitudeE7" : 378690669,
+          "longitudeE7" : -1222608321,
+          "placeId" : "ChIJHWLBHSZ8hYAR2moio4HtQrc",
+          "name" : "Cal Performances",
+          "locationConfidence" : 1.3936882
+        }, {
+          "latitudeE7" : 378684029,
+          "longitudeE7" : -1222588422,
+          "placeId" : "ChIJKWXeUC98hYARYwTsmqC-ezw",
+          "name" : "Chipotle Mexican Grill",
+          "locationConfidence" : 0.94894266
+        }, {
+          "latitudeE7" : 378690717,
+          "longitudeE7" : -1222596570,
+          "placeId" : "ChIJa9vo_SV8hYARKlWfsBYS2A0",
+          "name" : "Multicultural Community Center",
+          "locationConfidence" : 0.6818491
+        }, {
+          "latitudeE7" : 378702521,
+          "longitudeE7" : -1222594835,
+          "placeId" : "ChIJWQ7Q3iV8hYARIk2M02NP3m0",
+          "name" : "Sather Gate",
+          "locationConfidence" : 0.6431935
+        }, {
+          "latitudeE7" : 378680468,
+          "longitudeE7" : -1222581375,
+          "placeId" : "ChIJMfyhay98hYARs0L2SNx0vmY",
+          "name" : "Gypsy's Trattoria Italiana",
+          "locationConfidence" : 0.46459636
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 378690357,
+      "centerLngE7" : -1222594657,
+      "visitConfidence" : 87,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 378678337,
+        "longitudeE7" : -1222598924,
+        "placeId" : "ChIJQ0BAsih8hYARxzPFpURlBZA",
+        "name" : "Famous Bao",
+        "locationConfidence" : 12.923399
+      }, {
+        "latitudeE7" : 378684029,
+        "longitudeE7" : -1222588422,
+        "placeId" : "ChIJKWXeUC98hYARYwTsmqC-ezw",
+        "name" : "Chipotle Mexican Grill",
+        "locationConfidence" : 4.2544966
+      }, {
+        "latitudeE7" : 378680468,
+        "longitudeE7" : -1222581375,
+        "placeId" : "ChIJMfyhay98hYARs0L2SNx0vmY",
+        "name" : "Gypsy's Trattoria Italiana",
+        "locationConfidence" : 2.7193384
+      }, {
+        "latitudeE7" : 378692195,
+        "longitudeE7" : -1222596727,
+        "placeId" : "ChIJ55heVi98hYAR3sPruZWUbdo",
+        "locationConfidence" : 2.5208006
+      }, {
+        "latitudeE7" : 378670075,
+        "longitudeE7" : -1222615463,
+        "placeId" : "ChIJsS2xkyh8hYAR60j-TbaNc3o",
+        "name" : "First Congregational Church of Berkeley",
+        "locationConfidence" : 1.9446247
+      }, {
+        "latitudeE7" : 378678660,
+        "longitudeE7" : -1222595829,
+        "placeId" : "ChIJl4gCTS98hYAR4PUFryWwmYg",
+        "name" : "Kip's Restaurant",
+        "locationConfidence" : 1.4018161
+      }, {
+        "latitudeE7" : 378686734,
+        "longitudeE7" : -1222585829,
+        "placeId" : "ChIJiWTUXC98hYARrmlNLX89GbI",
+        "name" : "Café Milano",
+        "locationConfidence" : 1.0990516
+      }, {
+        "latitudeE7" : 378686232,
+        "longitudeE7" : -1222588574,
+        "placeId" : "ChIJG5lCXC98hYARIqgu1rGYASE",
+        "name" : "Ladle & Leaf",
+        "locationConfidence" : 1.0164386
+      }, {
+        "latitudeE7" : 378684126,
+        "longitudeE7" : -1222595331,
+        "placeId" : "ChIJM_10US98hYARU5-bDj4E7hs",
+        "name" : "Walgreens",
+        "locationConfidence" : 1.012111
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 378685168,
+          "lngE7" : -1222590932,
+          "timestampMs" : "1538263055047",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 378661504,
+          "lngE7" : -1222583486,
+          "timestampMs" : "1538269654044",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 378654854,
+          "lngE7" : -1222565858,
+          "timestampMs" : "1538269793000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 378635246,
+          "lngE7" : -1222574670,
+          "timestampMs" : "1538269923000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 378634388,
+          "lngE7" : -1222583999,
+          "timestampMs" : "1538270075916",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 378680053,
+          "lngE7" : -1222584298,
+          "timestampMs" : "1538270479962",
+          "accuracyMeters" : 76
+        }, {
+          "latE7" : 378690840,
+          "lngE7" : -1222593573,
+          "timestampMs" : "1538272003989",
+          "accuracyMeters" : 5
+        }, {
+          "latE7" : 378700621,
+          "lngE7" : -1222594993,
+          "timestampMs" : "1538272127138",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 378692956,
+          "lngE7" : -1222599318,
+          "timestampMs" : "1538272256448",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 378687025,
+        "longitudeE7" : -1222596126,
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 379187220,
+        "longitudeE7" : -1223203479,
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1538280937102",
+        "endTimestampMs" : "1538282671788"
+      },
+      "distance" : 11992,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 88.00012544996947
+      }, {
+        "activityType" : "IN_BUS",
+        "probability" : 7.817583015871114
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 2.861468693875739
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 378686637,
+          "lngE7" : -1222596054
+        }, {
+          "latE7" : 378597106,
+          "lngE7" : -1222592239
+        }, {
+          "latE7" : 378590736,
+          "lngE7" : -1222593154
+        }, {
+          "latE7" : 378529777,
+          "lngE7" : -1222825469
+        }, {
+          "latE7" : 378513679,
+          "lngE7" : -1222902221
+        }, {
+          "latE7" : 378819236,
+          "lngE7" : -1223079910
+        }, {
+          "latE7" : 379187011,
+          "lngE7" : -1223203506
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 378590628,
+          "lngE7" : -1222591824,
+          "timestampMs" : "1538281656999",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1538282673041",
+        "location" : {
+          "latitudeE7" : 379186285,
+          "longitudeE7" : -1223203905,
+          "accuracyMetres" : 70
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 379185219,
+        "longitudeE7" : -1223203354,
+        "placeId" : "ChIJL_Kpu1d4hYARg54xmIt3Xl8",
+        "address" : "5226 Creely Ave\nRichmond, CA 94804\nUSA",
+        "name" : "5226 Creely Ave",
+        "semanticType" : "TYPE_HOME",
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        },
+        "locationConfidence" : 98.415596
+      },
+      "duration" : {
+        "startTimestampMs" : "1538282671788",
+        "endTimestampMs" : "1538283276466"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 379186500,
+      "centerLngE7" : -1223203667,
+      "visitConfidence" : 88,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 379189950,
+        "longitudeE7" : -1223203150,
+        "placeId" : "ChIJezkEs1d4hYARu1gBsMF6kqM",
+        "name" : "Arbors Apartments",
+        "locationConfidence" : 1.2240999
+      }, {
+        "latitudeE7" : 379189673,
+        "longitudeE7" : -1223241373,
+        "placeId" : "ChIJ9cWfDFl4hYARSd4ggdsN4fU",
+        "name" : "Booker T. Anderson Jr. Park",
+        "locationConfidence" : 0.098214775
+      }, {
+        "latitudeE7" : 379206268,
+        "longitudeE7" : -1223224436,
+        "placeId" : "ChIJfViX7ll4hYARVVV22caUdCk",
+        "name" : "Stege Elementary School",
+        "locationConfidence" : 0.07321402
+      }, {
+        "latitudeE7" : 379165678,
+        "longitudeE7" : -1223247883,
+        "placeId" : "ChIJE58T3Pd4hYARIDwLNgKFYEI",
+        "name" : "Crescent Park Apartments",
+        "locationConfidence" : 0.046584427
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 379186103,
+        "longitudeE7" : -1223203724,
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 378551035,
+        "longitudeE7" : -1222520854,
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1538283276466",
+        "endTimestampMs" : "1538328760000"
+      },
+      "distance" : 12374,
+      "activityType" : "IN_PASSENGER_VEHICLE",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 89.05915118387304
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 7.929912061481536
+      }, {
+        "activityType" : "CYCLING",
+        "probability" : 1.3183723337796625
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 379186973,
+          "lngE7" : -1223203735
+        }, {
+          "latE7" : 378820419,
+          "lngE7" : -1223082962
+        }, {
+          "latE7" : 378703918,
+          "lngE7" : -1222816467
+        }, {
+          "latE7" : 378665885,
+          "lngE7" : -1222816848
+        }, {
+          "latE7" : 378624343,
+          "lngE7" : -1222812194
+        }, {
+          "latE7" : 378573646,
+          "lngE7" : -1222799606
+        }, {
+          "latE7" : 378556861,
+          "lngE7" : -1222635192
+        }, {
+          "latE7" : 378570671,
+          "lngE7" : -1222528381
+        }, {
+          "latE7" : 378549232,
+          "lngE7" : -1222520675
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 378705005,
+          "lngE7" : -1222816672,
+          "timestampMs" : "1538328109404",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 378624390,
+          "lngE7" : -1222811924,
+          "timestampMs" : "1538328236186",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 378556728,
+          "lngE7" : -1222636630,
+          "timestampMs" : "1538328491474",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 378571569,
+          "lngE7" : -1222520624,
+          "timestampMs" : "1538328637840",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "parkingEvent" : {
+        "timestampMs" : "1538329116051",
+        "location" : {
+          "latitudeE7" : 378550593,
+          "longitudeE7" : -1222519926,
+          "accuracyMetres" : 70
+        }
+      }
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 378551035,
+        "longitudeE7" : -1222520854,
+        "placeId" : "ChIJpe0ORc59hYARlHO-iBUcKEI",
+        "address" : "2715 Prince St\nBerkeley, CA 94705\nUSA",
+        "name" : "Chinese for Christ Berkeley Church 中华归主柏克莱教会",
+        "semanticType" : "TYPE_ALIASED_LOCATION",
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        },
+        "locationConfidence" : 99.19239
+      },
+      "duration" : {
+        "startTimestampMs" : "1538328760000",
+        "endTimestampMs" : "1538341797037"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "centerLatE7" : 378545500,
+      "centerLngE7" : -1222526529,
+      "visitConfidence" : 92,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 378566908,
+        "longitudeE7" : -1222531368,
+        "placeId" : "ChIJwX1X4819hYAR5oAMIfO68MY",
+        "name" : "Rialto Cinemas Elmwood",
+        "locationConfidence" : 0.32228416
+      }, {
+        "latitudeE7" : 378549999,
+        "longitudeE7" : -1222516667,
+        "placeId" : "ChIJU-ToUM59hYARzPcfqdr_YKU",
+        "name" : "Third Church of Christ Scientist",
+        "locationConfidence" : 0.122385144
+      }, {
+        "latitudeE7" : 378566035,
+        "longitudeE7" : -1222543606,
+        "placeId" : "ChIJi8YnBtJ9hYAR_xFnV0yZxxs",
+        "name" : "Claremont Branch Library",
+        "locationConfidence" : 0.08515331
+      }, {
+        "latitudeE7" : 378564190,
+        "longitudeE7" : -1222529160,
+        "placeId" : "ChIJAUjcC859hYARkKY1pOQYWSY",
+        "name" : "Gordo Taqueria",
+        "locationConfidence" : 0.040491834
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "activitySegment" : {
+      "startLocation" : {
+        "latitudeE7" : 378536765,
+        "longitudeE7" : -1222546301,
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        }
+      },
+      "endLocation" : {
+        "latitudeE7" : 378718992,
+        "longitudeE7" : -1222585399,
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        }
+      },
+      "duration" : {
+        "startTimestampMs" : "1538341797037",
+        "endTimestampMs" : "1538342936999"
+      },
+      "distance" : 2446,
+      "activityType" : "CYCLING",
+      "confidence" : "HIGH",
+      "activities" : [ {
+        "activityType" : "CYCLING",
+        "probability" : 86.22561950714851
+      }, {
+        "activityType" : "IN_PASSENGER_VEHICLE",
+        "probability" : 7.71955034680534
+      }, {
+        "activityType" : "WALKING",
+        "probability" : 3.4520269048019463
+      } ],
+      "waypointPath" : {
+        "waypoints" : [ {
+          "latE7" : 378536682,
+          "lngE7" : -1222546310
+        }, {
+          "latE7" : 378657951,
+          "lngE7" : -1222604217
+        }, {
+          "latE7" : 378671989,
+          "lngE7" : -1222612075
+        }, {
+          "latE7" : 378684806,
+          "lngE7" : -1222610702
+        }, {
+          "latE7" : 378721504,
+          "lngE7" : -1222603225
+        } ]
+      },
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 378658485,
+          "lngE7" : -1222604294,
+          "timestampMs" : "1538342263043",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 378671989,
+          "lngE7" : -1222612076,
+          "timestampMs" : "1538342397000",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 378684120,
+          "lngE7" : -1222609558,
+          "timestampMs" : "1538342549000",
+          "accuracyMeters" : 10
+        } ]
+      },
+      "editConfirmationStatus" : "NOT_CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 378718992,
+        "longitudeE7" : -1222585399,
+        "placeId" : "ChIJwdcixRh3j4ARiTJrO-o0gNo",
+        "address" : "Berkeley, CA\nUSA",
+        "name" : "University of California, Berkeley",
+        "sourceInfo" : {
+          "deviceTag" : -1478195304
+        },
+        "locationConfidence" : 99.45324
+      },
+      "duration" : {
+        "startTimestampMs" : "1538342936999",
+        "endTimestampMs" : "1538354530999"
+      },
+      "placeConfidence" : "HIGH_CONFIDENCE",
+      "childVisits" : [ {
+        "location" : {
+          "latitudeE7" : 378720704,
+          "longitudeE7" : -1222595978,
+          "placeId" : "ChIJHQXpIiR8hYARqKk0ptub3CM",
+          "address" : "Doe Library\nCampanile Way\nBerkeley, CA 94720\nUSA",
+          "name" : "University of California, Berkeley Libraries",
+          "sourceInfo" : {
+            "deviceTag" : -1478195304
+          },
+          "locationConfidence" : 51.65565
+        },
+        "duration" : {
+          "startTimestampMs" : "1538342936999",
+          "endTimestampMs" : "1538352000000"
+        },
+        "placeConfidence" : "MEDIUM_CONFIDENCE",
+        "centerLatE7" : 378723580,
+        "centerLngE7" : -1222601000,
+        "visitConfidence" : 77,
+        "otherCandidateLocations" : [ {
+          "latitudeE7" : 378721832,
+          "longitudeE7" : -1222595929,
+          "placeId" : "ChIJAQAAADl8hYARaxyuchGHTCw",
+          "name" : "Doe Memorial Library",
+          "locationConfidence" : 20.143896
+        }, {
+          "latitudeE7" : 378725740,
+          "longitudeE7" : -1222607480,
+          "placeId" : "ChIJxWEsuCZ8hYAR48_Sst45khU",
+          "name" : "Moffitt Library",
+          "locationConfidence" : 14.166213
+        }, {
+          "latitudeE7" : 378725738,
+          "longitudeE7" : -1222608480,
+          "placeId" : "ChIJ60w1qN9-hYARtzxtM7Qwdw4",
+          "name" : "Free Speech Movement Cafe",
+          "locationConfidence" : 3.9616997
+        }, {
+          "latitudeE7" : 378722923,
+          "longitudeE7" : -1222588909,
+          "placeId" : "ChIJoZpCSCV8hYARAEbWLD-SHhk",
+          "name" : "The Bancroft Library",
+          "locationConfidence" : 2.0512078
+        }, {
+          "latitudeE7" : 378722619,
+          "longitudeE7" : -1222594669,
+          "placeId" : "ChIJj8i8ISR8hYARll0GROhLb8c",
+          "name" : "Doe & Moffitt Libraries: Graduate Services",
+          "locationConfidence" : 0.72886246
+        }, {
+          "latitudeE7" : 378731865,
+          "longitudeE7" : -1222593917,
+          "placeId" : "ChIJWx1rAyR8hYAR9HgAZILJJHc",
+          "name" : "Memorial Glade",
+          "locationConfidence" : 0.48149285
+        } ],
+        "editConfirmationStatus" : "NOT_CONFIRMED"
+      } ],
+      "centerLatE7" : 378723580,
+      "centerLngE7" : -1222601000,
+      "visitConfidence" : 77,
+      "otherCandidateLocations" : [ {
+        "latitudeE7" : 378710506,
+        "longitudeE7" : -1222602486,
+        "placeId" : "ChIJRx_8gCZ8hYARZL47b0uvDTY",
+        "name" : "Strawberry Creek",
+        "locationConfidence" : 0.09471045
+      }, {
+        "latitudeE7" : 378752383,
+        "longitudeE7" : -1222597447,
+        "placeId" : "ChIJvT17fSF8hYARDvME2KJyJzw",
+        "name" : "Hearst Food Court",
+        "locationConfidence" : 0.04548995
+      }, {
+        "latitudeE7" : 378751951,
+        "longitudeE7" : -1222603390,
+        "placeId" : "ChIJ41kQeyF8hYARwcdepzgBPbc",
+        "name" : "Northside Cafe",
+        "locationConfidence" : 0.039558366
+      }, {
+        "latitudeE7" : 378753120,
+        "longitudeE7" : -1222603140,
+        "placeId" : "ChIJIcyweyF8hYARMNPBdNhMakE",
+        "name" : "Menchie's Frozen Yogurt. Berkeley’s Only Self Serve Frozen Yogurt",
+        "locationConfidence" : 0.03279314
+      } ],
+      "editConfirmationStatus" : "NOT_CONFIRMED",
+      "simplifiedRawPath" : {
+        "points" : [ {
+          "latE7" : 378721653,
+          "lngE7" : -1222602540,
+          "timestampMs" : "1538342936999",
+          "accuracyMeters" : 10
+        }, {
+          "latE7" : 378727198,
+          "lngE7" : -1222595159,
+          "timestampMs" : "1538343284235",
+          "accuracyMeters" : 65
+        } ]
+      }
+    }
+  } ]
+}

@@ -1,0 +1,57 @@
+{
+  "timelineObjects" : [ {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 437706834,
+        "longitudeE7" : 112550047,
+        "placeId" : "ChIJZ58wpgFUKhMRio9UwvuaZF8",
+        "address" : "Via dell'Arte della Lana\n50123 Firenze FI\nItalia",
+        "name" : "Church and Museum of Orsanmichele",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1527950270353",
+        "endTimestampMs" : "1527950330353"
+      },
+      "placeConfidence" : "USER_CONFIRMED",
+      "visitConfidence" : 100,
+      "editConfirmationStatus" : "CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 455386446,
+        "longitudeE7" : 102218409,
+        "placeId" : "ChIJExOV1Wp2gUcRByyO-VK8l-A",
+        "address" : "Piazza Paolo VI\n25121 Brescia BS\nItalia",
+        "name" : "Cathedral of Santa Maria Assunta",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1528200332341",
+        "endTimestampMs" : "1528200392341"
+      },
+      "placeConfidence" : "USER_CONFIRMED",
+      "visitConfidence" : 100,
+      "editConfirmationStatus" : "CONFIRMED"
+    }
+  }, {
+    "placeVisit" : {
+      "location" : {
+        "latitudeE7" : 453566348,
+        "longitudeE7" : 96472122,
+        "placeId" : "ChIJMfJ5ccQ6gUcR-bNYOas4xhI",
+        "address" : "Via Torre, 20\n26013 Crema CR\nItalia",
+        "name" : "B&B Villa Benvenuti",
+        "locationConfidence" : 100.0
+      },
+      "duration" : {
+        "startTimestampMs" : "1528269328598",
+        "endTimestampMs" : "1528269388598"
+      },
+      "placeConfidence" : "USER_CONFIRMED",
+      "visitConfidence" : 100,
+      "editConfirmationStatus" : "CONFIRMED"
+    }
+  } ]
+}
